@@ -25,5 +25,6 @@ Input :
 output:
 not prime
 
-![image](https://github.com/MohammadAbbasi76/PrimeNumberInPython/assets/104908459/06a18fad-7bd5-4300-a2b5-adbe1bdd72ee)
+![image](https://github.com/MohammadAbbasi76/PrimeNumberInPython/assets/104908459/282b01ef-18c0-47bc-9bca-c13a557a9335)
+
 
