@@ -7,10 +7,10 @@ Definition of a prime number:A prime number is a natural number greater than 1 t
 
 Here are a few examples of prime numbers:
 
-2 is the smallest prime number.
-3 is a prime number because it cannot be divided evenly by any number other than 1 and 3.
-5 is a prime number for the same reason.
-7, 11, 13, 17, 19, 23, and so on, are all prime numbers.
+*2 is the smallest prime number.
+*3 is a prime number because it cannot be divided evenly by any number other than 1 and 3.
+*5 is a prime number for the same reason.
+*7, 11, 13, 17, 19, 23, and so on, are all prime numbers.
 However, numbers like 4, 6, 8, 9, 10, and 12 are not prime because they can be divided evenly by numbers other than 1 and themselves.
 
 Prime numbers have various applications in mathematics and computer science, such as cryptography, number theory, and algorithms. They are of great significance and have been studied extensively throughout history.
