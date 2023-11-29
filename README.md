@@ -1,6 +1,6 @@
 # Prime Number In Python
 
-In this program written in python , we read a positive number from the input and determine whether it is a prime number or not.
+In this program that written in python , we read a positive number from the input and determine whether it is a prime number or not.
 
 
 Definition of a prime number:A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. In other words, a prime number is a number that cannot be evenly divided by any other number except 1 and itself.
